@@ -17,7 +17,6 @@ GreetGuardian is a Discord bot designed to enhance your server's experience by p
 
 ## Table of Contents
 
--   [Table of Contents](#table-of-contents)
 -   [How to Use the Bot](#how-to-use-the-bot)
 -   [How to Run the Bot Locally](#how-to-run-the-bot-locally)
 -   [What Tech is Used and How it's Made](#what-tech-is-used-and-how-its-made)
@@ -26,7 +25,7 @@ GreetGuardian is a Discord bot designed to enhance your server's experience by p
 ## How to Use the Bot
 
 1. **Add GreetGuardian to Your Server**  
-   Use [this link](https://discord.com/oauth2/authorize?client_id=1231415639575363674) to add the bot to your server.
+   Use [this link](https://discord.com/oauth2/authorize?client_id=1267459165337550951) to add the bot to your server.
 
 2. **Commands**
    <a name="config-new-sound"></a>
